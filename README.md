@@ -1,7 +1,7 @@
 # OXY-Dongler
 Dongle to allow Game Boy Advance peripherals to be used on a Game Boy Micro
 
-You can order the PCB files from [Oshpark](https://oshpark.com/) by uploading either the the zip archive in the [gerbers directory](https://github.com/makhowastaken/OXY-Dongler/tree/master/gerbers) or either of the \*.kicad_pcb files or you can upload the gerber zip archives to any of your choice of PCB fabricator. Oshpark will probably be the cheapest for small QTYs (3 for $1.40). 
+You can order the PCB files from Oshpark by using my shared projects link for the [solid board](https://oshpark.com/projects/G7eothoV) or the [breakaway board](https://oshpark.com/shared_projects/KbXcIG3Z) or you can upload the gerber zip archives in the [gerbers directory](https://github.com/makhowastaken/OXY-Dongler/tree/master/gerbers) to any of your choice of PCB fabricator. Oshpark will probably be the cheapest for small QTYs (3 for $1.40). 
 
 There are two versions, one is a solid board similar to [BlindEye's version](https://www.tindie.com/products/hidarite/link-cable-adapter-for-game-boy-micro/) but with a few small changes implemented that should make the board easier to assemble and stronger. I also added a pinout for the charge pins on the Micro EXP connector but they are not connected to the AGB EXP connector. My boards are slightly bigger than BlindEye's and do not have the mounting holes for the 3D printed case and such will not be compatible. I will likely revise these boards after testing them. 
 

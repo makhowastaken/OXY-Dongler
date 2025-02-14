@@ -18,4 +18,4 @@ To assemble this, you'll need two parts plus these PCBs.
 
 And to assemble, see this video I made: https://youtu.be/QlkQgUIXweQ
 
-The video is of BlindEye's PCBs but the assembly and function will be identical. I've ordered my PCBs and will be making a new video as soon as I can. 
+The video is of BlindEye's PCBs but the assembly and function will be identical. 
